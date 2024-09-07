@@ -67,3 +67,9 @@ Example of the 12-month report:
 
 ## Extra Credit
 An additional feature includes the display of a 12-month interest report, showing month-by-month updates to the account balance after interest is applied.
+
+
+
+## Acknowledgments
+
+I would like to thank Prof.James Papademas[@https://www.linkedin.com/in/james-papademas-a3446420/) for inspiring me with their work on advance topics of OOPS and approach. Their contributions and ideas were instrumental in shaping this project.
